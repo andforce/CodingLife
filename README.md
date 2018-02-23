@@ -6,7 +6,7 @@
 ## ↓Monokai-Sublime Text自带的默认主题
 ![](https://raw.githubusercontent.com/andforce/color-theme/master/Monokai.jpg)
 
-## ↓One Dark Them-Atom自带的默认主图
+## ↓One Dark-Atom自带的默认主图
 ![](https://raw.githubusercontent.com/andforce/color-theme/master/OneDark.jpg)
 
 ## ↓Dracula-https://github.com/dracula/dracula-theme
