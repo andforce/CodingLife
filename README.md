@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/andforce/color-theme/master/images/codinglife.jpg)
+![](https://raw.githubusercontent.com/andforce/CodingLife/master/images/codinglife.png)
