@@ -34,3 +34,11 @@ fi
 
 source ~/.git-completion.bash
 ```
+
+### 3.Shell命令忽略大小自动补全
+编辑~/.inputrc 添加下面三行，重启命令行窗口
+```shell
+set completion-ignore-case on
+set show-all-if-ambiguous on
+TAB: menu-complete
+```
